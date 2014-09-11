@@ -1,0 +1,4 @@
+spinner
+=======
+
+Slider control
